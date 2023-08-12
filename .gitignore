@@ -1,0 +1,6 @@
+node_modules/
+public/build/
+src/wasm/target
+.DS_Store
+.vscode
+target/
